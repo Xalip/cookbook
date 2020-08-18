@@ -24,3 +24,7 @@ The parser is far from perfect. If you can help out in any way, please [have a l
 #### All of the text is in English?
 This app uses the [Transifex](https://www.transifex.com/nextcloud/nextcloud/cookbook/) translation system.
 You might want to register there to help translating the app to new languages or report errors in existing translations.
+
+## Contributing
+Have a look at the Contributing.md!
+
